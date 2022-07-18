@@ -61,3 +61,11 @@ Postal Code	Place Name	State	County	City	Latitude	Longitude
 
 paris.dropna()
 paris.head()
+Postal Code	Place Name	State	County	City	Latitude	Longitude
+0	24000	Périgueux	Aquitaine	Dordogne	Arrondissement de Périgueux	45.1833	0.7167
+1	24001 CEDEX	Périgueux	Aquitaine	Dordogne	Arrondissement de Périgueux	45.1833	0.7167
+2	24002 CEDEX	Périgueux	Aquitaine	Dordogne	Arrondissement de Périgueux	45.1833	0.7167
+3	24003 CEDEX	Périgueux	Aquitaine	Dordogne	Arrondissement de Périgueux	45.1833	0.7167
+4	24004 CEDEX	Périgueux	Aquitaine	Dordogne	Arrondissement de Périgueux	45.1833	0.7167
+
+
